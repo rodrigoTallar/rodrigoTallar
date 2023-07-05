@@ -13,10 +13,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
 ✨✨✨
+-->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rtallarr&exclude_repo=repo1,repo2&card_width=500&langs_count=8)
 
-![rtallarr's GitHub stats](https://github-readme-stats.vercel.app/api?username=rtallarr&show_icons=true&theme=radical&card_width=500)
+![rtallarr's GitHub stats](https://github-readme-stats.vercel.app/api?username=rtallarr&show_icons=true&theme=radical&card_width=500) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rtallarr&layout=compact&exclude_repo=repo1,repo2&card_width=500&langs_count=8)
+<a href="https://github.com/rtallarr">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rtallarr&show_icons=true&rank_icon=github" />
+</a>
+<a href="https://github.com/rtallarr">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rtallarr&layout=compact&langs_count=8&card_width=400&exclude_repo=Deep-Learning,MineCraft" />
+</a>
